@@ -1,4 +1,5 @@
-# early-warning-analytics-fintech
+# Early-Warning Analytics for Financial Inclusion, PoS Growth, and Digital Fraud Risk in Nigeria (2016–2025)
+
 This capstone project develops an early-warning analytics framework for financial inclusion risk, with a specific application to Nigeria’s financial ecosystem and broader relevance to Sub-Saharan Africa.
 
 This capstone project develops an early-warning analytics framework for financial inclusion risk, with a specific application to Nigeria’s financial ecosystem and broader relevance to Sub-Saharan Africa. The study addresses the persistent challenge of identifying, monitoring, and mitigating systemic risks that undermine access to formal financial services, particularly for underserved populations.
