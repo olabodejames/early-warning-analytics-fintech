@@ -1,0 +1,9 @@
+year,period,total_epayment_volume,total_epayment_value_ngn,fraud_cases,fraud_losses_ngn_billion,notes
+2018,Jan-Dec,,,"","","Fraud data not available in public summary"
+2019,Jan-Dec,,,"","","Fraud data not available in public summary"
+2020,Jan-Dec,10145624441,1245658035983230,,,"Pandemic year; fraud values not disclosed"
+2021,Jan-Dec,16325885851,1670503476386260,123918,,"Fraud cases peak; losses not reported"
+2022,Jan-Dec,22073912739,1550443208305530,,,"Fraud losses not publicly disclosed"
+2023,Jan-Dec,38730537534,2240794454444110,,17.67,"Baseline fraud loss year"
+2024,Jan-Jun,22419710555,1558905734175560,,52.26,"Losses driven by single N31.1bn incident"
+2025,Jan-Dec,,,"67518",25.85,"51% decline in fraud losses"
